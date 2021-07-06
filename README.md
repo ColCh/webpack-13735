@@ -12,4 +12,6 @@ See
 * `src/MY_IMPORT.js` for `import()` interceptor
 * `src/index.js` for application code with dynamic import
 
-[./assets/Screenshot 2021-07-07 at 00.56.59.png]
+## Demo image
+
+![Img](./assets/Screenshot%202021-07-07%20at%2000.56.59.png)
