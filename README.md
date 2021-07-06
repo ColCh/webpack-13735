@@ -12,6 +12,8 @@ See
 * `src/MY_IMPORT.js` for `import()` interceptor
 * `src/index.js` for application code with dynamic import
 
+Launch with `npx webpack serve --mode=development` and open `http://localhost:8080/`
+
 ## Demo image
 
 ![Img](./assets/Screenshot%202021-07-07%20at%2000.56.59.png)
