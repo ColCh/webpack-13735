@@ -1,6 +1,6 @@
 # webpack-13735
 
-Sandbox URL: *TODO*
+Sandbox URL: https://codesandbox.io/s/jovial-liskov-77n9k?file=/README.md
 
 Attempt to fix <https://github.com/webpack/webpack/issues/13735>
 
