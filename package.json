@@ -1,0 +1,11 @@
+{
+  "name": "webpack-13735",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "5.42.1",
+    "webpack-cli": "4.7.2",
+    "webpack-dev-server": "3.11.2"
+  }
+}

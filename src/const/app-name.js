@@ -1,0 +1,1 @@
+export const myAppName = 'my app-name_webpack-playground';
